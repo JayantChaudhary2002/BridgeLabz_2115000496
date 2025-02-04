@@ -30,3 +30,7 @@ Problems Covered :
   Voting status of 10 students, Checking for 5 numbers whether they are positive negative zero, multiplication table, Enter elements until the elements is zero or    negative, multiplication table from 6 to 9, Mean height of players, Save odd and even number into two different arrays, find factors and store them in an array,    Copying the 2D array into single dimension array, FizzBuzz with certain conditions, Bonus on the basis of years of service, youngest friend using age and tallest   using height among three friends, find largest and second largest element in an array, reversing a number using array, Showing status of all people's BMI weight    height, same code as previous using 2D array, Calculating percentage and grade of students, find frequency of each digit.
 Added to Branch :
   Feature_25-01-25
+
+Jan 27-Assignment :
+Topics Covered :
+  Java Methods, greet method, calling method in java, Using method multiple times, dynamic methods, benefits of using methods, user-defined methods, recursive        methods, java static method, Standard library methods, Math class

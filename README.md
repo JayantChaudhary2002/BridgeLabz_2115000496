@@ -1,11 +1,11 @@
 # BridgeLabz_2115000496
-##*Jan 19-Assignment:*
-###*Topics Covered :*
+*Jan 19-Assignment:*
+⭕Topics Covered :
 ---
   History and Evolution of java, Java Fundamentals, JVM JRE JDK, Naming Conventions in java, Java Operators, Static Keyword in java
-Problems Covered :
+⭕Problems Covered :
   Printing the statement, Add two numbers, Temperature conversion, area of circle, volume of cylinder, Simple Interest, Perimeter of a rectangle, Power               calculation, calculate average of three numbers, distance conversion.
-Added to branch :
+⭕Added to branch :
   Feature_19-01-25
 ---
 Jan 21-Assignment:

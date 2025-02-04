@@ -22,3 +22,11 @@ Problems Covered :
   Number divisible by 5, Smallest of three number, largest of three number, Check for natural number and return sum of natural numbers, Voting validation, Check      whether number is positive negative zero, SpringSeason Check, Count down using while loop, count down using for loop, find sum of numbers until number entered is   zero, find sum of number n until n is entered zero, calculate sum of n natural numbers and check with original formula, same sum using for loop, Factorial of       number n using while loop, factorial using for loop, Print odd and even between 1 to number n, find bonus of employee on the basis of years of service,             multiplication table from 6 to 9, Leap year using if and else conditions, Leap year using logical operators, compute the percentage and then grade of the           student, check for the number is prime or not, program to print Fizz Buzz on certain conditions, To calculate body status with respect to BMI index, find           youngest friend among three friends, Greatest factor beside itself, Power of a number, Factors of a number, Multiple of a number, Armstrong number, Count number    of digits, Harshad Number, Abundant Number, Day of week, Calculator using Switch case
 Added to Branch :
   Feature_23-01-25
+
+Jan 25-Assignment :
+Topics Covered :
+  Java Arrays, Creating an Array, Accessing an Array, Accessing using for loop, Modifying Array Elements, Size of the array, Multidimensional Array, System.exit      method,System.err message
+Problems Covered :
+  Voting status of 10 students, Checking for 5 numbers whether they are positive negative zero, multiplication table, Enter elements until the elements is zero or    negative, multiplication table from 6 to 9, Mean height of players, Save odd and even number into two different arrays, find factors and store them in an array,    Copying the 2D array into single dimension array, FizzBuzz with certain conditions, Bonus on the basis of years of service, youngest friend using age and tallest   using height among three friends, find largest and second largest element in an array, reversing a number using array, Showing status of all people's BMI weight    height, same code as previous using 2D array, Calculating percentage and grade of students, find frequency of each digit.
+Added to Branch :
+  Feature_25-01-25
